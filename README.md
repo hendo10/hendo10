@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hendo10 (you can call me Henry).
-- 👀 I’m interested in web & mobile development with a focus on front-end development (React).
-- 💞️ I’m looking to level up my developer skills by learning new languages such as SWIFT and <br> continue to learn new concepts/teachings in building web applications using the MERN stack.
-- 🌱 I’m currently learning Nextjs and am open to networking.
-- 📫 If you would like to connect, drop me an email and say hi! chong.henry@gmail.com
+👋 Hi, I’m @hendo10 (you can call me Henry).
+👀 I’m passionate about everything at the intersection of technology and finance.
+💻 I'm a backend developer at Citi, working primarily with Java Spring Boot.
+🌐 I’m also proficient in JavaScript and React, and currently learning Swift for iOS development.
+🤝 Always open to networking and collaboration opportunities.
+📫 Feel free to reach out — drop me an email at chong.henry@gmail.com and say hi!
 
 <!---
 hendo10/hendo10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
